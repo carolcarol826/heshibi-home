@@ -1,0 +1,180 @@
+{
+  "_help": "编辑此文件即可改网页内容。每个字段都成对出现：_en=英文，_zh=中文。完整说明见 EDITING.md。",
+
+  "site_meta": {
+    "title_en": "Heshibi · Building AI for the rest of the world",
+    "title_zh": "合势必 · 为世界的另一半构建 AI",
+    "description_en": "Heshibi is a Shenzhen-based AI company building practical products at the intersection of language, data, and creativity.",
+    "description_zh": "合势必是一家面向全球的 AI 应用公司，在语言、数据与创造力的交叉处构建实用产品。"
+  },
+
+  "nav": {
+    "approach_en": "Approach",
+    "approach_zh": "理念",
+    "directions_en": "Directions",
+    "directions_zh": "方向",
+    "principles_en": "Principles",
+    "principles_zh": "原则",
+    "company_en": "Company",
+    "company_zh": "公司"
+  },
+
+  "hero": {
+    "eyebrow_en": "Shenzhen · Born Global · 2025",
+    "eyebrow_zh": "深圳 · 原生出海 · 2025",
+    "title_html_en": "Building AI for the<br><em>rest</em> of the world.",
+    "title_html_zh": "为世界的另一半，<br>构建 <em>AI</em>。",
+    "subtitle_html_en": "Heshibi is an AI company building <strong>practical products at the intersection of language, data, and creativity</strong> — designed from day one for the languages, markets, and use cases that English-default AI overlooks.",
+    "subtitle_html_zh": "合势必是一家面向全球的 AI 应用公司，在<strong>语言、数据与创造力的交叉处</strong>构建实用产品。从第一天起，我们就为英语优先的 AI 默认市场之外的语言、文化与场景而设计。",
+    "cta_primary_en": "What we're building",
+    "cta_primary_zh": "我们在构建什么",
+    "cta_secondary_en": "Get in touch",
+    "cta_secondary_zh": "联系我们"
+  },
+
+  "approach": {
+    "label_en": "— 01 · Approach",
+    "label_zh": "— 01 · 理念",
+    "title_en": "Why we exist.",
+    "title_zh": "我们为什么存在。",
+    "body_p1_html_en": "<strong>Most AI tools today are built English-first, then translated.</strong> They optimize for the median internet user — who speaks English, lives in the West, and consumes American media.",
+    "body_p1_html_zh": "<strong>今天大多数 AI 工具，先以英语构建，再翻译到其他语言。</strong>它们为西方语境下的中位用户优化——英语母语、生活在欧美、消费英语世界的内容。",
+    "body_p2_html_en": "That leaves <strong>most of the world out</strong>. The languages, the cultural contexts, the workflows, the way questions get asked and answered — all of it gets flattened in translation.",
+    "body_p2_html_zh": "这把<strong>世界的另一半留在了门外</strong>。语言、文化语境、工作流，以及人们提问与作答的方式——所有这些都在翻译中被压平。",
+    "body_p3_html_en": "We start the other way around. We build AI products designed for a <strong>multi-lingual, multi-market internet</strong> — for the billions of users, creators, and businesses that the global default ignores.",
+    "body_p3_html_zh": "我们反过来做。为一个真实多语言、多市场的互联网而构建——为<strong>全球默认值忽略的数十亿用户、创作者与企业</strong>而设计。",
+    "thesis_quote_html_en": "\"If your AI only works well in one language,<br><em>it's a prototype</em> — not a product.\"",
+    "thesis_quote_html_zh": "\"如果你的 AI 只在一种语言里好用，<br>它是<em>原型</em>——不是产品。\"",
+    "thesis_source_en": "— working principle",
+    "thesis_source_zh": "— 工作信条"
+  },
+
+  "directions": {
+    "label_en": "— 02 · Directions",
+    "label_zh": "— 02 · 方向",
+    "title_html_en": "Four areas. <em>One question.</em><br>How can AI become more useful to the people it serves?",
+    "title_html_zh": "四个方向。<em>一个问题。</em><br>AI 如何能对它服务的人，更有用？",
+    "intro_en": "We're building across four directions — distinct in shape, unified in stance. Each is selected for a market where multilingual, culture-aware AI changes what's possible.",
+    "intro_zh": "我们同时在四个方向上构建——形态各异，立场一致。每个方向都选自一个市场：在那里，多语言、懂文化的 AI 能改变可能性的边界。",
+    "pillar_1_status": "research",
+    "pillar_1_status_label_en": "In Research",
+    "pillar_1_status_label_zh": "研究中",
+    "pillar_1_title_en": "Emotion Intelligence",
+    "pillar_1_title_zh": "情感分析",
+    "pillar_1_subtitle_en": "情感分析",
+    "pillar_1_subtitle_zh": "Emotion Intelligence",
+    "pillar_1_description_en": "Models that read tone, intent, and feeling — across languages and contexts. For research teams, brands, and product groups who need to understand what users actually think, not just what they click.",
+    "pillar_1_description_zh": "能读懂语气、意图与情绪的模型——跨语言、跨文化语境。服务于需要真正理解用户想法的研究团队、品牌方与产品团队，而不止于点击行为。",
+    "pillar_1_focus_en": "Brand sentiment · Voice-of-customer · Cultural nuance",
+    "pillar_1_focus_zh": "品牌情感 · 用户声音 · 文化语境",
+
+    "pillar_2_status": "research",
+    "pillar_2_status_label_en": "In Research",
+    "pillar_2_status_label_zh": "研究中",
+    "pillar_2_title_en": "Business Intelligence",
+    "pillar_2_title_zh": "商业数据",
+    "pillar_2_subtitle_en": "商业数据",
+    "pillar_2_subtitle_zh": "Business Intelligence",
+    "pillar_2_description_en": "Agents that read markets the way an analyst would — pulling from filings, news, social, and proprietary data — and report back in a brief, not a spreadsheet. Strategic intelligence for operators who don't have time for dashboards.",
+    "pillar_2_description_zh": "像分析师一样读市场的智能体——从财报、新闻、社交媒体到自有数据，最终输出的是一份简报，而不是一张表格。为没时间看 dashboard 的运营者打造的战略情报。",
+    "pillar_2_focus_en": "Market analysis · Competitive intel · Cross-source synthesis",
+    "pillar_2_focus_zh": "市场分析 · 竞争情报 · 跨源整合",
+
+    "pillar_3_status": "alpha",
+    "pillar_3_status_label_en": "Private Alpha",
+    "pillar_3_status_label_zh": "私测中",
+    "pillar_3_title_en": "Generative Tools",
+    "pillar_3_title_zh": "AIGC 内容工具",
+    "pillar_3_subtitle_en": "AIGC 内容工具",
+    "pillar_3_subtitle_zh": "Generative Tools",
+    "pillar_3_description_en": "Production-grade generative tools for the people who make things — creators, marketers, indie founders. We tune for voice, taste, and brand, so output reads like a person, not an average.",
+    "pillar_3_description_zh": "为创造者打造的生产级生成工具——内容创作者、市场团队、独立创业者。我们为风格、品味与品牌音调做调优，让输出读起来像一个人，而不是平均值。",
+    "pillar_3_focus_en": "Long-form drafting · Brand-tuned voice · Cross-format output",
+    "pillar_3_focus_zh": "长文创作 · 品牌音调 · 跨形态产出",
+
+    "pillar_4_status": "open",
+    "pillar_4_status_label_en": "Open for Partnerships",
+    "pillar_4_status_label_zh": "招募合作伙伴",
+    "pillar_4_title_en": "Enterprise Solutions",
+    "pillar_4_title_zh": "AI 企业赋能",
+    "pillar_4_subtitle_en": "AI 企业赋能",
+    "pillar_4_subtitle_zh": "Enterprise Solutions",
+    "pillar_4_description_en": "Bespoke AI systems for enterprises with proprietary data, internal workflows, and serious compliance requirements. We bring the model, the integration, and the operating discipline. From pilot to production.",
+    "pillar_4_description_zh": "为有专有数据、内部流程与严肃合规要求的企业，定制 AI 系统。我们带来模型、集成方案与运营规范——从 Pilot 到 Production。",
+    "pillar_4_focus_en": "Custom deployment · Workflow integration · Domain tuning",
+    "pillar_4_focus_zh": "定制部署 · 流程集成 · 领域微调"
+  },
+
+  "principles": {
+    "label_en": "— 03 · Principles",
+    "label_zh": "— 03 · 原则",
+    "title_en": "How we build.",
+    "title_zh": "我们怎么做事。",
+    "intro_en": "Three working principles. They show up in everything we ship.",
+    "intro_zh": "三条工作原则。在我们交付的每一件事上都看得见。",
+
+    "p1_title_en": "Ship over study.",
+    "p1_title_zh": "交付胜过研究。",
+    "p1_body_en": "Research that doesn't reach production is poetry. We build small teams that take ideas from prototype to shipped product in weeks, not quarters. Demos are not the goal.",
+    "p1_body_zh": "不能进入生产的研究是诗。我们用小团队把想法从原型推到上线，以周为单位，不以季度。Demo 不是目的。",
+
+    "p2_title_en": "Many languages, by design.",
+    "p2_title_zh": "多语言，从设计起步。",
+    "p2_body_en": "If a product only works well in English, it's incomplete. We treat multilingual support as architectural, not a feature flag — built into evaluation, prompt design, and data from the start.",
+    "p2_body_zh": "如果一个产品只在英语下好用，它就是不完整的。我们把多语言当作架构，而不是 feature flag——从评测、Prompt 设计到数据，从一开始就考虑进来。",
+
+    "p3_title_en": "Tools that respect taste.",
+    "p3_title_zh": "尊重品味的工具。",
+    "p3_body_en": "AI should make people more like themselves, not less. We build for the human in the loop — preserving voice, judgment, and intent rather than averaging them into something faster but generic.",
+    "p3_body_zh": "AI 应该让人更像自己，而不是更不像自己。我们为流程里的人构建工具——保留他们的声音、判断与意图，而不是把这些抹平成更快但更平庸的输出。"
+  },
+
+  "company": {
+    "label_en": "— 04 · Company",
+    "label_zh": "— 04 · 公司",
+    "title_html_en": "Built in Shenzhen.<br><em>Open</em> to the world.",
+    "title_html_zh": "扎根深圳。<br><em>面向</em>世界。",
+    "body_p1_en": "Heshibi was founded in 2025 by a small team of operators and engineers based in Shenzhen, China. We move fast because we're small. We stay small because that's how we move fast.",
+    "body_p1_zh": "合势必创立于 2025 年，由一支驻深圳的运营者与工程师组成。我们之所以快，因为我们小；我们之所以保持小，因为这样才能快。",
+    "body_p2_html_en": "<strong>We're hiring, partnering, and talking to a small number of investors.</strong> If any of the below fits, we'd like to hear from you.",
+    "body_p2_html_zh": "<strong>我们正在招人、找合作伙伴，也在与少量投资人交谈。</strong>如果下列任一项符合你的方向，欢迎与我们联系。",
+
+    "card_1_label_en": "For Investors",
+    "card_1_label_zh": "致投资人",
+    "card_1_title_en": "A measured conversation.",
+    "card_1_title_zh": "一场克制的对话。",
+    "card_1_body_en": "Early-stage. Multi-market thesis. We're selective about who we talk to. Reach out with a short note about your fund's focus.",
+    "card_1_body_zh": "早期阶段。多市场论点。我们在投资人选择上很挑剔。欢迎附一段说明你基金方向的短信。",
+    "card_1_email_subject": "Investor inquiry · Heshibi",
+
+    "card_2_label_en": "For Partners",
+    "card_2_label_zh": "致合作伙伴",
+    "card_2_title_en": "Enterprise pilots, design partners.",
+    "card_2_title_zh": "企业试点、设计伙伴。",
+    "card_2_body_en": "If your team has a domain, a workflow, and tolerance for early collaboration, we'd like to build with you. We bring the AI; you bring the question worth answering.",
+    "card_2_body_zh": "如果你的团队有具体领域、真实流程、并愿意接受早期协作——我们想和你一起构建。我们带来 AI，你带来值得回答的问题。",
+    "card_2_email_subject": "Partnership inquiry · Heshibi",
+
+    "card_3_label_en": "For Builders",
+    "card_3_label_zh": "致创造者",
+    "card_3_title_en": "Engineers, designers, researchers.",
+    "card_3_title_zh": "工程师、设计师、研究员。",
+    "card_3_body_en": "We're opening roles across the directions above. Remote-friendly, Shenzhen base. If you can ship and think across languages, write us.",
+    "card_3_body_zh": "我们正在开放上述方向的岗位。远程友好，深圳基地。如果你能交付，能跨语言思考——写信给我们。",
+    "card_3_email_subject": "Joining Heshibi"
+  },
+
+  "contact": {
+    "email": "carolyang.yyf@outlook.com",
+    "location_en": "Shenzhen, China",
+    "location_zh": "中国 · 深圳"
+  },
+
+  "footer": {
+    "brand_desc_en": "A Shenzhen-based AI company building products for a global, multi-lingual internet.<br>深圳合势必科技有限公司",
+    "brand_desc_zh": "一家面向全球、构建多语言互联网产品的深圳 AI 公司。<br>深圳合势必科技有限公司",
+    "copyright_en": "© 2026 Heshibi Inc. · 深圳合势必科技有限公司",
+    "copyright_zh": "© 2026 深圳合势必科技有限公司 · Heshibi Inc.",
+    "icp": "粤ICP备2025474900号-1"
+  }
+}

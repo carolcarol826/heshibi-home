@@ -1,0 +1,9 @@
+{
+  "name": "heshibi-home",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Heshibi 合势必 · company landing page",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
