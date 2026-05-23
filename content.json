@@ -1,5 +1,6 @@
 {
   "_help": "编辑此文件即可改网页内容。每个字段都成对出现：_en=英文，_zh=中文。完整说明见 EDITING.md。",
+  "_last_test_deploy": "2026-05-23T15:00:00 — auto-deploy chain verification",
 
   "site_meta": {
     "title_en": "Heshibi · Building AI for the rest of the world",
