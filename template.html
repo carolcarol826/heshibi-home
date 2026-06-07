@@ -102,6 +102,12 @@
     font-family: "Source Han Sans SC", "PingFang SC", sans-serif;
     font-size: 19px;
   }
+  /* 头部 logo 字体固定为英文衬线体，中英文模式保持一致 */
+  nav.top .logo,
+  body.lang-zh nav.top .logo {
+    font-family: "Iowan Old Style", "Source Serif Pro", Georgia, serif;
+    font-size: 22px;
+  }
   body.lang-zh .logo-cn { font-size: 15px; color: var(--ink); }
   body.lang-zh .logo .en-name { font-size: 14px; color: var(--ink-soft); font-family: "Iowan Old Style", Georgia, serif; }
 
@@ -545,10 +551,7 @@
 <nav class="top" id="topNav">
   <div class="container">
     <a href="/" class="logo">
-      <span data-lang="en">Heshibi</span>
-      <span class="logo-cn" data-lang="en">合势必</span>
-      <span data-lang="zh">合势必</span>
-      <span class="en-name" data-lang="zh">Heshibi</span>
+      <span>HESHIBI Tech</span>
     </a>
     <div class="nav-right">
       <div class="nav-links">
