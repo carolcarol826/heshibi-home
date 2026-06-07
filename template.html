@@ -505,6 +505,13 @@
     margin-bottom: 8px;
   }
   body.lang-zh .footer-brand .logo { font-size: 22px; }
+  /* footer logo 与头部一致：英文衬线体，中英文统一；尺寸接近原中文字号 */
+  footer.site .logo,
+  body.lang-zh footer.site .logo {
+    font-family: "Iowan Old Style", "Source Serif Pro", Georgia, serif;
+    font-size: 22px;
+    word-spacing: 0.2em;
+  }
   .footer-brand p {
     font-size: 13px;
     color: var(--ink-soft);
@@ -810,8 +817,7 @@
     <div class="footer-top">
       <div class="footer-brand">
         <a href="/" class="logo">
-          <span data-lang="en">Heshibi <span class="logo-cn">合势必</span></span>
-          <span data-lang="zh">合势必 <span class="en-name">Heshibi</span></span>
+          <span>HESHIBI Tech</span>
         </a>
         <p data-lang="en">{{footer.brand_desc_en}}</p>
         <p data-lang="zh">{{footer.brand_desc_zh}}</p>
